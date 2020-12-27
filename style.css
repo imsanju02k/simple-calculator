@@ -1,0 +1,40 @@
+.calculator {
+	height: 350px;
+	width: 280px;
+	background-color: cadetblue;
+	margin: 0 auto;
+	margin-top: 50px;
+	padding: 10px;
+	border: 1px solid whitesmoke ;
+	background:23px darkgrey;
+    
+}
+
+.main-bar{
+	margin-bottom: 20px;
+	text-align: right:
+    
+}
+
+.btn {
+	font-size: 20px;
+	cursor: pointer;
+	width: 61px;
+	color: lemonchiffon;
+}
+.line{
+	margin-bottom: 10px;
+}
+.last input{
+	width: 126px;
+	color: ghostwhite;
+}
+ #inp{
+ font-size: 23px;
+ font-weight: bold;
+}
+.backspace { 
+	margin: 2px;
+	border: 1px;
+
+	 }
